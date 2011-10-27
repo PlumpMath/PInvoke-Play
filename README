@@ -1,0 +1,6 @@
+To execute the demo
+
+1. Run ./buildall.sh
+2. After compilation is complete, enter "out" folder and run ./runme.sh
+
+Happy hacking!
